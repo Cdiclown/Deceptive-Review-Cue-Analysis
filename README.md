@@ -272,6 +272,7 @@ The experiments were designed with an emphasis on transparent and reproducible
 analysis.
 
 The main pipeline can be summarized as:
+```text
 
 Deceptive Opinion Spam Corpus
             │
